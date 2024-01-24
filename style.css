@@ -1,0 +1,25 @@
+/*Importing component files */
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+
+
+body{
+	color: #5f6f52;
+	font-family: helvetica;
+	font-size: 15px;
+}
+
+h1{
+	color: purple;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+
+
+
+
+
